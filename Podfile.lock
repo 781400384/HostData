@@ -1,0 +1,30 @@
+PODS:
+  - IQKeyboardManager (6.5.5)
+  - Masonry (1.1.0)
+  - Toast (4.0.0)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - IQKeyboardManager
+  - Masonry
+  - Toast
+  - YYKit
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManager
+    - Masonry
+    - Toast
+    - YYKit
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: 3a8b9e603f8b0eeaf5f096a1f2b2cfcf121992ef
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: abb2d645e9b7eb9bb743e79dd0e0141d519d857d
+
+COCOAPODS: 1.9.0.beta.2
